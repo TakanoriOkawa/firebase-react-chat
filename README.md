@@ -1,5 +1,6 @@
-## こちらのサイト様を参考にハンズオン
+## こちらのサイト様を参考にハンズオン（途中）
 https://www.youtube.com/watch?v=oG2dxY8K0Y4
+
 
 # Getting Started with Create React App
 
